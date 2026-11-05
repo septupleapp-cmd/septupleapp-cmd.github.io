@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.musicsquad.music_squad",
+      "sha256_cert_fingerprint_list": [
+        "84:09:4C:0A:C6:CE:9B:A2:7A:7D:0D:E6:2F:70:6B:C6:83:8A:A7:7F:9B:BB:81:5B:51:C6:CB:AC:6A:4D:C1:E3",
+        "03:65:D0:55:ED:60:07:DE:80:60:07:E8:B7:CB:C9:27:60:3B:53:1B:20:51:D7:8A:2E:97:5A:9A:E6:BA:58:A5"
+      ]
+    }
+  }
+]
